@@ -11,88 +11,88 @@
 
 class Customer{
 
-    private $cid;
-    private $name;
-    private $mobile;
-    private $address;
+    private $txtcid;
+    private $txtname;
+    private $txttel;
+    private $txtsal;
 
     /**
      * Customer constructor.
-     * @param $cid
-     * @param $name
-     * @param $mobile
-     * @param $address
+     * @param $txtcid
+     * @param $txtname
+     * @param $txttel
+     * @param $txtsal
      */
-    public function __construct($cid, $name, $mobile, $address)
+    public function __construct($txtcid, $txtname, $txttel, $txtsal)
     {
-        $this->cid = $cid;
-        $this->name = $name;
-        $this->mobile = $mobile;
-        $this->address = $address;
+        $this->txtcid = $txtcid;
+        $this->txtname = $txtname;
+        $this->txttel = $txttel;
+        $this->txtsal = $txtsal;
     }
 
     /**
      * @return mixed
      */
-    public function getCid()
+    public function getTxtcid()
     {
-        return $this->cid;
+        return $this->txtcid;
     }
 
     /**
-     * @param mixed $cid
+     * @param mixed $txtcid
      */
-    public function setCid($cid)
+    public function setTxtcid($txtcid)
     {
-        $this->cid = $cid;
-    }
-
-    /**
-     * @return mixed
-     */
-    public function getName()
-    {
-        return $this->name;
-    }
-
-    /**
-     * @param mixed $name
-     */
-    public function setName($name)
-    {
-        $this->name = $name;
+        $this->txtcid = $txtcid;
     }
 
     /**
      * @return mixed
      */
-    public function getMobile()
+    public function getTxtname()
     {
-        return $this->mobile;
+        return $this->txtname;
     }
 
     /**
-     * @param mixed $mobile
+     * @param mixed $txtname
      */
-    public function setMobile($mobile)
+    public function setTxtname($txtname)
     {
-        $this->mobile = $mobile;
+        $this->txtname = $txtname;
     }
 
     /**
      * @return mixed
      */
-    public function getAddress()
+    public function getTxttel()
     {
-        return $this->address;
+        return $this->txttel;
     }
 
     /**
-     * @param mixed $address
+     * @param mixed $txttel
      */
-    public function setAddress($address)
+    public function setTxttel($txttel)
     {
-        $this->address = $address;
+        $this->txttel = $txttel;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getTxtsal()
+    {
+        return $this->txtsal;
+    }
+
+    /**
+     * @param mixed $txtsal
+     */
+    public function setTxtsal($txtsal)
+    {
+        $this->txtsal = $txtsal;
     }
 
 
