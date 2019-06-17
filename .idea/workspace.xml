@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82e5f849-f614-4efb-9b02-8782769436b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/viewCustomer.php" afterDir="false" />
+    <list default="true" id="82e5f849-f614-4efb-9b02-8782769436b0" name="Default Changelist" comment="-m commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/customer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/customerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/customerController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +34,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="php" value="696" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PHP" value="696" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -62,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+            <state relative-caret-position="606">
+              <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -133,7 +130,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560767741134" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560770349574" />
     <property name="last_opened_file_path" value="F:/POS PHP" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -176,12 +173,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560750088274</updated>
-      <workItem from="1560750091243" duration="11204000" />
+      <workItem from="1560750091243" duration="11754000" />
     </task>
+    <task id="LOCAL-00001" summary="-m commit">
+      <created>1560770064628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560770064629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11204000" />
+    <option name="totallyTimeSpent" value="11754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -223,6 +228,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="-m commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m commit" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/project/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -249,8 +260,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+        <state relative-caret-position="606">
+          <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
         </state>
       </provider>
     </entry>
